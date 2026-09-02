@@ -1,0 +1,8 @@
+# Ignore Microsoft Office files
+.docx
+.doc
+.pptx
+.ppt
+
+# Ignore Python virtual environment
+.venv
